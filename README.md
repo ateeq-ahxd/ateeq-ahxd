@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=ff0000&center=true&vCenter=true&width=350&repeat=false&lines=Current+Focus" alt="Current Focus" />
 </p>
 
-<div align="center" style="max-width: 700px; text-align: left; margin: auto; font-size: 1.15em; color: #ff0000; line-height: 1.7em;">
+<div align="left" style="max-width: 700px; text-align: left; margin: auto; font-size: 1.15em; color: #ff0000; line-height: 1.7em;">
 
   🔴 Data Engineering, AI/ML Pipelines, Digital Health Interoperability (FHIR, HL7)<br/>
   🔴 Predictive Analytics, Clinical NLP, Real-world Data Modeling<br/>
